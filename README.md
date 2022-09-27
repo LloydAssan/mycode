@@ -1,5 +1,5 @@
 # mycode
-tracking my code
+tracking my code - learning version control projects with git.
 # mycode (Project Title)
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
