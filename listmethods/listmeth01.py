@@ -6,7 +6,7 @@ protoa = ["ssh", "http", "https"]
 print(proto)
 print(proto[1])
 
-proto.index("http")
+print(proto.index("http"))
 
 proto.append("dns")
 protoa.append("dns")
@@ -18,5 +18,5 @@ print(proto)
 protoa.append(proto2)
 print(protoa)
 
-proto.count("ssh")
+print(proto.count("ssh"))
 print(proto)
