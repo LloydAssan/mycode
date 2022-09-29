@@ -6,9 +6,24 @@
 
 def main():
 
-    # Create list of animals
-    animal_list = ["cat", "dog", "bee", "pig", "ant"]
+    # Create list of animals 
+    animal = ["cat", "dog", "bee", "pig", "ant"]
+    print(" ".join(animal))
 
-    print(" ".join(animal_list))
+    # Create list of nba teams
+    nba = ["lakers", "celtics", "warriors", "bulls", "heat"]
+    print(nba)
+
+    # other methods I worked with
+    
+    # append()
+    nba.append(animal)
+    print(nba)
+
+
+
+
+
+
 
 main()
