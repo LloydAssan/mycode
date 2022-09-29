@@ -24,6 +24,7 @@ print( switch.get("lynx") )
 print ("Second test - .get()")
 print( switch.get("lynx", "THE KEY IS IN ANOTHER CASTLE!!") )
 
+# GREAT when dealing with imput from a USER
 print ("Third test - .get()")
 print( switch.get("version") )
 
