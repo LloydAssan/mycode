@@ -1,0 +1,7 @@
+export OS_AUTH_URL=la
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=Lloyd
+export OS_PROJECT_DOMAIN_NAME=la.edu
+export OS_USERNAME=same
+export OS_USER_DOMAIN_NAME=same.edu
+export OS_PASSWORD=pass
