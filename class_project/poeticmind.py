@@ -1,0 +1,1 @@
+print("Welcome to the poetic mind space")
